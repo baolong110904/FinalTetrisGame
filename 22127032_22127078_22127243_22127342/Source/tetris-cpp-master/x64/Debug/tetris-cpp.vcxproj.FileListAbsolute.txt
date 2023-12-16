@@ -1,0 +1,3 @@
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\tetris-cpp.vcxproj.CopyComplete
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\tetris-cpp.exe
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\raylib.dll

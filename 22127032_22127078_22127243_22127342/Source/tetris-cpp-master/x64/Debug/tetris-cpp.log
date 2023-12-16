@@ -1,0 +1,14 @@
+﻿  board.cpp
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\board.cpp(53,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  constants.cpp
+  game.cpp
+  main.cpp
+  menu.cpp
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\menu.cpp(18,38): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\menu.cpp(18,62): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\menu.cpp(18,86): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+  tetromino.cpp
+  Generating Code...
+  tetris-cpp.vcxproj -> C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\tetris-cpp.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
